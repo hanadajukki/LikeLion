@@ -36,9 +36,10 @@ namespace loading
                 }
                 Console.WriteLine(" ");
                 Console.Clear(); //콘솔화면 지우기
-                //Console.WriteLine("■□□□□□□□□□");
+                                 //Console.WriteLine("■□□□□□□□□□");
+                
             }
-            
+            Console.WriteLine("게임시작");
         }
     }
 }
