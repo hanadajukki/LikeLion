@@ -1,0 +1,7 @@
+C:\LikeLion\likelionVarable\likelionVarable\bin\Debug\likelionVarable.exe.config
+C:\LikeLion\likelionVarable\likelionVarable\bin\Debug\likelionVarable.exe
+C:\LikeLion\likelionVarable\likelionVarable\bin\Debug\likelionVarable.pdb
+C:\LikeLion\likelionVarable\likelionVarable\obj\Debug\likelionVarable.csproj.AssemblyReference.cache
+C:\LikeLion\likelionVarable\likelionVarable\obj\Debug\likelionVarable.csproj.CoreCompileInputs.cache
+C:\LikeLion\likelionVarable\likelionVarable\obj\Debug\likelionVarable.exe
+C:\LikeLion\likelionVarable\likelionVarable\obj\Debug\likelionVarable.pdb
