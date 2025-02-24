@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\homework\homework\bin\Debug\homework.exe.config
+C:\LikeLion\LikeLion\homework\homework\bin\Debug\homework.exe
+C:\LikeLion\LikeLion\homework\homework\bin\Debug\homework.pdb
+C:\LikeLion\LikeLion\homework\homework\obj\Debug\homework.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\homework\homework\obj\Debug\homework.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\homework\homework\obj\Debug\homework.exe
+C:\LikeLion\LikeLion\homework\homework\obj\Debug\homework.pdb
