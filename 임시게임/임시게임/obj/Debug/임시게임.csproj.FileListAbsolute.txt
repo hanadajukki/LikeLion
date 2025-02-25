@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\임시게임\임시게임\bin\Debug\임시게임.exe.config
+C:\LikeLion\LikeLion\임시게임\임시게임\bin\Debug\임시게임.exe
+C:\LikeLion\LikeLion\임시게임\임시게임\bin\Debug\임시게임.pdb
+C:\LikeLion\LikeLion\임시게임\임시게임\obj\Debug\임시게임.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\임시게임\임시게임\obj\Debug\임시게임.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\임시게임\임시게임\obj\Debug\임시게임.exe
+C:\LikeLion\LikeLion\임시게임\임시게임\obj\Debug\임시게임.pdb
