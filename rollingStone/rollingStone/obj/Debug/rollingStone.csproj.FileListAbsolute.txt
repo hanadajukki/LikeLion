@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\rollingStone\rollingStone\bin\Debug\rollingStone.exe.config
+C:\LikeLion\LikeLion\rollingStone\rollingStone\bin\Debug\rollingStone.exe
+C:\LikeLion\LikeLion\rollingStone\rollingStone\bin\Debug\rollingStone.pdb
+C:\LikeLion\LikeLion\rollingStone\rollingStone\obj\Debug\rollingStone.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\rollingStone\rollingStone\obj\Debug\rollingStone.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\rollingStone\rollingStone\obj\Debug\rollingStone.exe
+C:\LikeLion\LikeLion\rollingStone\rollingStone\obj\Debug\rollingStone.pdb

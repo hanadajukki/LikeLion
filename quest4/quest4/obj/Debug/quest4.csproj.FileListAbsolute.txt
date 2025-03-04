@@ -1,0 +1,7 @@
+C:\LikeLion\LikeLion\quest4\quest4\bin\Debug\quest4.exe.config
+C:\LikeLion\LikeLion\quest4\quest4\bin\Debug\quest4.exe
+C:\LikeLion\LikeLion\quest4\quest4\bin\Debug\quest4.pdb
+C:\LikeLion\LikeLion\quest4\quest4\obj\Debug\quest4.csproj.AssemblyReference.cache
+C:\LikeLion\LikeLion\quest4\quest4\obj\Debug\quest4.csproj.CoreCompileInputs.cache
+C:\LikeLion\LikeLion\quest4\quest4\obj\Debug\quest4.exe
+C:\LikeLion\LikeLion\quest4\quest4\obj\Debug\quest4.pdb
